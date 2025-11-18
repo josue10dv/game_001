@@ -4,7 +4,7 @@ Proyecto de juego desarrollado con Python y Pygame que implementa un sistema bá
 
 ## 📋 Descripción
 
-Este es un juego 2D simple que demuestra los fundamentos de desarrollo de videojuegos con Pygame. El jugador controla un cuadrado verde que puede moverse libremente por la pantalla usando las teclas de dirección.
+Este es un juego 2D busca desarrollar la historia de un repartidor interestelar, este se vera obligado a buscar la salida de un planeta hostil y que da señales de vida inteligente y artificial, que es lo que hara para escapar de alli?
 
 ## 🎮 Características
 
@@ -180,21 +180,6 @@ FPS = 60
 Las dependencias están especificadas en `requirements.txt`:
 - pygame==2.6.1
 
-## 🔮 Posibles Mejoras
-
-Este proyecto sirve como base para implementar:
-
-- [ ] Enemigos y sistemas de combate
-- [ ] Sistema de puntuación
-- [ ] Múltiples niveles
-- [ ] Sonidos y música
-- [ ] Animaciones del jugador
-- [ ] Diferentes tipos de movimiento (aceleración, salto)
-- [ ] Sistema de colisiones más avanzado
-- [ ] Power-ups y objetos coleccionables
-- [ ] Menú principal y pantalla de game over
-- [ ] Sistema de guardado
-
 ## 📝 Notas de Desarrollo
 
 - El proyecto usa type hints para mejor documentación del código
@@ -202,10 +187,6 @@ Este proyecto sirve como base para implementar:
 - El patrón Singleton en `GameWindow` previene múltiples ventanas
 - El `EventHandler` centraliza toda la lógica de input, facilitando su modificación
 
-## 👨‍💻 Autor
-
-Proyecto educativo desarrollado como base para aprendizaje de desarrollo de videojuegos con Pygame.
-
 ## 📄 Licencia
 
-Este proyecto es de código abierto y está disponible para uso educativo.
+Este proyecto es de código abierto.
